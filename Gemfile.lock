@@ -96,7 +96,7 @@ GEM
       erubis (~> 2.7.0)
       net-ssh (>= 2.7, < 4.0)
     libyajl2 (1.2.0)
-    minitar (0.5.4)
+    minitar (0.9)
     mixlib-archive (0.1.0)
     mixlib-authentication (1.4.1)
       mixlib-log
