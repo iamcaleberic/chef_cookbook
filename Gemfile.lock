@@ -135,7 +135,7 @@ GEM
       wmi-lite (~> 1.0)
     plist (3.2.0)
     proxifier (1.0.3)
-    rack (1.6.4)
+    rack (2.2.3)
     retryable (2.0.3)
     ridley (4.5.1)
       addressable
