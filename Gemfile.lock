@@ -90,7 +90,7 @@ GEM
     httpclient (2.7.2)
     iniparse (1.4.2)
     ipaddress (0.8.3)
-    json (1.8.3)
+    json (2.3.1)
     knife-solo (0.6.0)
       chef (>= 10.20)
       erubis (~> 2.7.0)
